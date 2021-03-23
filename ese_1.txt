@@ -1,4 +1,11 @@
-acpi_available
+a
+
+
+
+
+
+
+cpi_available
 agetty
 apm_available
 apparmor_parser
